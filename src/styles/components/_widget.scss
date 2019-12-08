@@ -1,0 +1,22 @@
+.widget {
+    background: $light-blue;
+    margin-bottom: $xl-size;
+    @include e('message') {
+        color: $off-white;
+        margin: 0 ;
+        padding: $l-size;
+        text-align: center;
+        border-bottom: 1px solid lighten($light-blue, 10%);
+    }
+}
+
+.widget-header {
+    background: $blue;
+    color: $off-white;
+    padding: $m-size;
+    display: flex;
+    justify-content: space-between;
+    @include e('title') {
+        margin: 0;
+    } 
+}

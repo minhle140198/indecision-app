@@ -1,0 +1,32 @@
+
+@import './settings';
+
+// Block Element
+@mixin e($element) {
+    &__#{$element} {
+        @content;
+    }
+    
+}
+// Block Modifier
+@mixin m($modifier) {
+    &--#{$modifier} {
+        @content;
+    }
+}
+
+html {
+    font-size : 62.5%;
+}
+body { 
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: $m-size;
+    background: $dark-blue;
+}
+button {
+    cursor: pointer;
+    font-size: 100%;
+    &:disabled {
+        cursor: default;
+    }
+}
