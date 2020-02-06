@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import IndecisionApp from './components/IndecisionApp';
+import CounterApp from './CounterApp'
 import './styles/styles.scss';
 
 import * as serviceWorker from './serviceWorker';

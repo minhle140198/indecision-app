@@ -1,7 +1,7 @@
 import * as React from 'react';
 import { join } from 'path';
 
-export class CounterApp extends React.Component {
+export default class CounterApp extends React.Component {
     constructor(props){
         super(props);
         this.state = {
