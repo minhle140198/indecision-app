@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/indecision-app/static/css/main.ef7bc4a8.chunk.css",
+    "main.js": "/indecision-app/static/js/main.0e434a56.chunk.js",
+    "main.js.map": "/indecision-app/static/js/main.0e434a56.chunk.js.map",
+    "runtime~main.js": "/indecision-app/static/js/runtime~main.38f46e93.js",
+    "runtime~main.js.map": "/indecision-app/static/js/runtime~main.38f46e93.js.map",
+    "static/js/2.77e9ab8b.chunk.js": "/indecision-app/static/js/2.77e9ab8b.chunk.js",
+    "static/js/2.77e9ab8b.chunk.js.map": "/indecision-app/static/js/2.77e9ab8b.chunk.js.map",
+    "index.html": "/indecision-app/index.html",
+    "precache-manifest.d05cac7e53ac94358fab866ba562ccdd.js": "/indecision-app/precache-manifest.d05cac7e53ac94358fab866ba562ccdd.js",
+    "service-worker.js": "/indecision-app/service-worker.js",
+    "static/css/main.ef7bc4a8.chunk.css.map": "/indecision-app/static/css/main.ef7bc4a8.chunk.css.map"
+  }
+}
